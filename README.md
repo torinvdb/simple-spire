@@ -283,3 +283,7 @@ kind delete cluster
 
 Congratulations! You have successfully deployed a Workload that retrieves SVIDs from SPIRE and uses these to configure
 TLS.
+
+# Disclaimer
+
+This demo was written for [LFS183x](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183x/) under the provided [Apache License](LICENSE).
